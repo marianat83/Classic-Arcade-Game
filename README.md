@@ -5,7 +5,7 @@ This is my Udacity project, the goal is to reach the other side avoiding hitting
 
 ## How to Play!
 
-Click here to play the game 
+Click here to play the game [HERE](https://marianat83.github.io/Classic-Arcade-Game/)
 
 
 ### Game Features
