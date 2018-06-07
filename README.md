@@ -15,11 +15,9 @@ Play using this lovely girl! help her get to the other side!
 ![horn-girl](images/char-horn-girl.png)
 
 #### Bad guys
-----------------------------
 ![enemy-bug](images/enemy-bug.png)
 
 
 #### How to play
-----------------------------
 - Get to the water
 - Avoid bugs
